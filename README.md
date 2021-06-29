@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GroovyFrox
+- 👋 Hi, I’m René
 - 👀 I’m interested in webdesign, playing music (guitar mostly) and videogames, learning how to code - still figuring things out as I go - and my two cats. 
 - 🌱 I’m currently learning HTML5 and CSS3. I will continue with a bit of JS to have a nice foundation for front-end development.
 - 💞️ I’m looking to collaborate on anything that may help me figure out how development works and will make me a better programmer.
